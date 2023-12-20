@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: rgb(104,34,195);
+}
+h1 {
+    text-align: center;
+    color: aliceblue;
+    text-shadow: -1px 1px 2px wheat;
+    font-size: 80px;
+}
+
+input[type="text"]{
+    margin-left:40%;
+    padding: 8px;
+    width: 200px;
+    border-radius: 13px;
+}
+
+button[type="submit"] {
+    cursor: pointer;
+    background-color: yellow;
+    border: none;
+    padding: 8px;
+}
+.login-btn {
+    margin-top: 12px;
+    margin-left: 44%;  
+    font-size: 20px;  
+    background-color: yellow;
+    border: none;
+}
+
+table{
+border: none;
+margin-top: 12px;
+margin-left: 35%;
+border: 1px solid wheat;
+color: aliceblue;
+
+
+}
+td{
+    padding:9px;
+    font-size: 25px;
+}
+tr{
+    font-size: 35px;
+}
